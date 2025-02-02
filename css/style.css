@@ -809,12 +809,12 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 /* Estilo para o projeto 'steam' */
-#s-projects .grid-layout #projects .steam {
+#s-projects .grid-layout #projects .form-web {
     border: 1px solid #536fed; /* Cor de borda azul */
 }
 
 /* Efeito de hover para 'steam' */
-#s-projects .grid-layout #projects .steam:hover {
+#s-projects .grid-layout #projects .form-web:hover {
     border: 1px solid #536fed; /* Mesma borda ao passar o mouse */
 }
 
@@ -865,34 +865,34 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 /* Estilo específico para o projeto 'naped' */
-#s-projects .grid-layout #naped {
+#s-projects .grid-layout #technews {
     color: #00a3ff; /* Cor azul */
 }
 
-/* Estilo de gradiente para o 'naped' */
-#s-projects .grid-layout #naped::after {
+/* Estilo de gradiente para o 'technews' */
+#s-projects .grid-layout #technews::after {
     background: linear-gradient(270deg, #00a3ff 0%, #17161d 100%); /* Gradiente de azul */
 }
 
 /* Estilo específico para o projeto 'efront' */
-#s-projects .grid-layout #efront {
+#s-projects .grid-layout #form-web {
     color: #a6fb98; /* Cor verde claro */
 }
 
-/* Estilo de gradiente para o 'efront' */
-#s-projects .grid-layout #efront::after {
+/* Estilo de gradiente para o 'form-web' */
+#s-projects .grid-layout #form-web::after {
     background: linear-gradient(270deg, #a6fb98 0%, #17161d 100%); /* Gradiente de verde */
 }
 
-/* Estilo específico para o projeto 'steam' */
-#s-projects .grid-layout #steam {
+/* Estilo específico para o projeto 'travelgram' */
+#s-projects .grid-layout #travelgram {
     color: #536fed; /* Cor azul */
 }
 
-/* ========== Estilo de Projetos e Link do 'Steam' ========== */
+/* ========== Estilo de Projetos e Link do 'travelgram' ========== */
 
-/* Gradiente de fundo para o projeto 'steam' */
-#s-projects .grid-layout #steam::after {
+/* Gradiente de fundo para o projeto 'travelgram' */
+#s-projects .grid-layout #travelgram::after {
     background: linear-gradient(270deg, #536fed 0%, #17161d 100%); /* Gradiente azul */
 }
 

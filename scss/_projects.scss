@@ -24,7 +24,7 @@
         border: 1px solid #e51d37;
 
         &:hover {
-          border: 1px solid #e51d37;
+          border: 2px solid #e51d37;
         }
       }
 
@@ -32,7 +32,7 @@
         border: 1px solid #00a3ff;
 
         &:hover {
-          border: 1px solid #00a3ff;
+          border: 2px solid #00a3ff;
         }
       }
 
@@ -40,15 +40,15 @@
         border: 1px solid #a6fb98;
 
         &:hover {
-          border: 1px solid #a6fb98;
+          border: 2px solid #a6fb98;
         }
       }
 
-      .steam {
+      .form-web {
         border: 1px solid #536fed;
 
         &:hover {
-          border: 1px solid #536fed;
+          border: 2px solid #536fed;
         }
       }
 
@@ -103,7 +103,7 @@
       }
     }
 
-    #steam {
+    #form-web {
       color: #536fed;
 
       &::after {
